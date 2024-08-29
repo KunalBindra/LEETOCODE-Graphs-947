@@ -1,4 +1,4 @@
-# LEETOCODE-Graphs-947
+# LEETCODE-Graphs-947
 To perform a dry run of the `removeStones` method from the `Solution` class, let's walk through the logic step-by-step with an example input. The method is designed to compute the maximum number of stones that can be removed such that no row or column is completely empty.
 
 ### Explanation of the Code
